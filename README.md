@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asqarbekolimov&label=Profile%20views&color=0e75b6&style=flat" alt="asqarbekolimov" /> </p>
 
-
+<img width="510" src="https://github.com/asqarbekolimov/AsqarbekOlimov/blob/main/Coder.gif">
 
 <p align="left"> <a href="https://twitter.com/asqarbekdev" target="blank"><img src="https://img.shields.io/twitter/follow/asqarbekdev?logo=twitter&style=for-the-badge" alt="asqarbekdev" /></a> </p>
 
