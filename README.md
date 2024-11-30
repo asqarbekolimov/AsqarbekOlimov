@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:info@asqarbekdev.uz dovosil495@aosod.com">
+  <a href="mailto:info@asqarbekdev.uz">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://uz.linkedin.com/in/asqarbekolimov" target="_blank">
